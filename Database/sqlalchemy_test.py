@@ -7,7 +7,7 @@ from pprint import pprint
 
 # Create an engine that stores data in the local directory's
 # sqlalchemy_example.db file.
-engine = create_engine('sqlite:////web/Sqlite-Data/example.db')
+engine = create_engine('sqlite:////web/SQlite-Data/example.db')
 
 # this loads the sqlalchemy base class
 Base = declarative_base()
