@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="example.db" uuid="945d2b2a-5d34-42a8-8d87-f6587d7cd490">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Rivera\PycharmProjects\sqlAlchemyHWRR\SQlite-Data\example.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
